@@ -4,7 +4,7 @@ import 'package:weatherapp/Provider/Auth_Provider.dart';
 import 'package:weatherapp/Provider/Password_Provider.dart';
 import 'package:weatherapp/Views/SignUp_Screen.dart';
 import 'package:weatherapp/Views/Weather_Screen.dart';
-
+//suiiiiiiii
 class LoginScreen extends StatelessWidget {
   LoginScreen({super.key});
   final TextEditingController emailcontroller = TextEditingController();
